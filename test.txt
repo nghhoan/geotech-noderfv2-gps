@@ -6,4 +6,4 @@ sai checksum, N, W: $GPRMC,023456.00,A,2117.11342,N,10545.67891,W,0.13,309.62,15
 
 int và int8_t....
 
-
+dòng này được thay đổi từ trên github, phải pull lại or fetch
